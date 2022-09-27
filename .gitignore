@@ -1,0 +1,45 @@
+HELP.md
+.gradle
+
+/build/
+build/
+**/build/
+**/out
+**/querydsl/
+
+dump.rdb
+
+!gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/output/
+
+### Spring
+entity/src/main/querydsl/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+node_modules
