@@ -40,6 +40,7 @@ fun typeCasting(obj: Any) {
 //        Person person = (Person) obj;
 //        System.out.println(person.getAge());
 //    }
+    
 
 
     // as Person 생략가능
