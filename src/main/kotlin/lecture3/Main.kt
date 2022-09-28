@@ -40,8 +40,6 @@ fun typeCasting(obj: Any) {
 //        Person person = (Person) obj;
 //        System.out.println(person.getAge());
 //    }
-    
-
 
     // as Person 생략가능
     // context를 분석해서 smartCasting을 지원한다.
