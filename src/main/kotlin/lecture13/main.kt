@@ -1,5 +1,8 @@
 package lecture13
 
+/**
+ * 코틀린에서 중첩함수를 다루는 방법
+ */
 fun main() {
 
 }
